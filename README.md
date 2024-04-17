@@ -30,3 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="20" alt="pycharm logo"  />
 </div>
 
+<br>
+<h3 align="left">Github Stats:</h3>
+<p align="left">
+<div align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kreytorn&" alt="kreytorn" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kreytorn&show_icons=true&locale=en&layout=compact" alt="kreytorn" />
+</div>
