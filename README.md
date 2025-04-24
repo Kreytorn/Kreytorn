@@ -1,12 +1,38 @@
-### Hi there 👋 I'm Kuzey TORLAK, a young Python developper from Turkey.
+Hi there 👋 I'm Kuzey TORLAK, an AI & ML enthusiast from Turkey.
 
-- 🔭 I’m currently working on [TorPDF, an opensource PDF Editor for Windows, Linux operation systems.](https://github.com/Kreytorn/TorPDF)
-- 🌱 I’m currently learning **Python, C and GoLang.**
-- 👯 I’m looking to collaborate on [TorPDF](https://github.com/Kreytorn/TorPDF). 
-- 🤔 I’m looking for help with **tkinter, PyQt**.
-- 💬 Ask me about **Python, Minercraft.**
-- 📫 How to reach me: **kuzeytorlak@gmail.com**
-- ⚡ Fun fact: **I love playing video games!**
+🔭 Currently working on:
+
+🏅 TEKNOFEST 2025: Polyp Segmentation Project
+🚁 TEKNOFEST 2025: UAV Object Detection with UAV-DETR & MiDaS
+🕹️ Minecraft AI Anti-Cheat System (C.L.A.R.A)
+🤖 Custom LLMs and Transformer Architectures
+
+🌱 I'm currently mastering:
+
+Advanced Transformers (ViT, UAV-DETR, UNETR, Swin-UNETR)
+MONAI, PyTorch, Deep Learning optimization
+MAMBA models for NLP and Vision
+
+👯 Open to collaboration on:
+
+Transformer-based architectures
+Medical imaging (Polyp Segmentation)
+Real-time UAV vision systems
+
+🤔 Looking for help with:
+
+Custom vision transformers
+Temporal consistency in video detection
+
+💬 Ask me about:
+
+Machine Learning & Deep Learning
+Medical Imaging (DICOM, TIFF)
+NLP & Large Language Models
+Minecraft AI
+
+📫 How to reach me:
+Email: kuzeytorlak@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
