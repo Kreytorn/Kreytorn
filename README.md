@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kreyto 👋</h1>
-<h3 align="center">AI Researcher · Transformer Architect · TEKNOFEST Finalist · 16 y/o from Turkey 🇹🇷</h3>
+<h3 align="center">AI Researcher · Transformer Architect · TEKNOFEST Finalist · From Turkey 🇹🇷</h3>
 
 ---
 
