@@ -5,7 +5,7 @@
 
 ### Research
 
-**Parallel Hybrid Architecture (PHA)** | Submitted to ECML PKDD [[Paper]](#)
+**Parallel Hybrid Architecture (PHA)** | Submitted to ECML PKDD
 
 Hybrid architecture for long-context language modeling. Runs GSS (Gated State Spaces), GQA, and FFN as parallel branches fused through learnable mixing, so each branch specializes instead of forcing SSMs to approximate attention or stacking them sequentially. Evaluated at 90M/125M/180M parameter scales on WikiText-103 and OpenWebText. 125M model hits 16.51 PPL on WikiText-103 (vs Hedgehog 16.70, H3 23.70), 180M matches pure attention quality with 24% higher throughput and up to 40% lower memory at long contexts. Ablations revealed a "Sandwich" pattern where GSS dominates boundary layers for global context while attention peaks in middle layers for retrieval.
 
@@ -25,11 +25,10 @@ Multi-method exoplanet detection combining transit photometry, radial velocity, 
 
 ### Other
 
-- Instructor at inzva Deep Learning Study Group, teaching Transformers to ~20 university/masters students
-- Research affiliate at Koç University (Medical LLMs, NLP)
-- Leading AI & Robotics club at school (~200 members)
+- Instructor at inzva Deep Learning Study Group, teaching Transformers
+- Koç University summer research program (Medical LLMs, 2024)
+- Leading AI & Robotics club at school
 - Competed in ISBO Computer Science Olympiad
-- LGS top 0.64% (national high school entrance exam, 1.2M students)
 
 ---
 
@@ -47,8 +46,6 @@ PHA hybrid architecture, ECG classification ensemble, handwritten exam grading (
 ---
 
 ### Contact
-
-`kuzeytorlak@gmail.com`
 
 <p align="left">
   <a href="https://twitter.com/kreytorn" target="_blank">
