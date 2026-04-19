@@ -46,6 +46,7 @@ PHA hybrid architecture, ECG classification ensemble, handwritten exam grading (
 ---
 
 ### Contact
+Discord account: Kreyto
 
 <p align="left">
   <a href="https://twitter.com/kreytorn" target="_blank">
