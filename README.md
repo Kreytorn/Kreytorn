@@ -25,12 +25,10 @@ Multi-method exoplanet detection combining transit photometry, radial velocity, 
 
 ### Other
 
-- Instructor at inzva Deep Learning Study Group, teaching Transformers to ~20 university/masters students
-- Research affiliate at Koç University (Medical LLMs, NLP)
-- Leading AI & Robotics club at school (~200 members)
+- Instructor at inzva Deep Learning Study Group, teaching Transformers to
+- Koç University summer research program (Medical LLMs, 2024)
+- - Leading AI & Robotics club at school
 - Competed in ISBO Computer Science Olympiad
-- LGS top 0.64% (national high school entrance exam, 1.2M students)
-
 ---
 
 ### What I Work With
