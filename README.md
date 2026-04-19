@@ -1,51 +1,61 @@
-<h1 align="center">Hi, I'm Kreyto 👋</h1>
-<h3 align="center">AI Researcher · Transformer Architect · TEKNOFEST Finalist · From Turkey 🇹🇷</h3>
+<h1 align="center">Kreyto</h1>
+<h3 align="center">AI Researcher · Transformer Architect · TEKNOFEST Finalist · Istanbul, Turkey</h3>
 
 ---
 
-🚀 **Currently Building:**
-- 🧬 **TEKNOFEST 2025 – Polyp Segmentation** (16-bit TIFF, Transformer UNETR, Super-Resolution)
-- 🚁 **TEKNOFEST 2025 – UAV Object Detection** using **UAV-DETR**, MiDaS Depth, Optical Flow, and Real-Time Tracking
-- 🧠 **CLARA** – AI-Powered Minecraft Anti-Cheat using supervised movement pattern recognition
-- 🧪 **Custom LLMs & Transformers** – Creating novel transformer & Mamba-based architectures for vision and NLP
+**Currently Building:**
+
+- **TEKNOFEST 2025 – Polyp Segmentation** — 16-bit TIFF, Transformer UNETR, Super-Resolution
+- **TEKNOFEST 2025 – UAV Object Detection** — UAV-DETR, MiDaS Depth, Optical Flow, Real-Time Tracking
+- **CLARA** — AI-Powered Minecraft Anti-Cheat using supervised movement pattern recognition
+- **Custom Architectures** — Novel transformer & Mamba-based models for vision and NLP
 
 ---
 
-🧠 **Deep Diving Into:**
-- 🧩 Advanced Transformers (ViT, Swin-UNETR, UAV-DETR, UNETR)
-- 🧬 State Space Models (MAMBA, S4, Hyena)
-- 🛠️ MONAI, PyTorch, and Deep Learning Optimization
-- 🏥 Medical Imaging (DICOM → 16-bit TIFF pipelines)
+**Publications:**
+
+- **Pyramidal Hierarchical Attention (PHA)** — Hybrid SSM-Transformer architecture with learnable branch mixing, evaluated at 90M/125M/180M parameter scales on WikiText-103 and OpenWebText. Submitted to ECML PKDD. [[Paper]](#)
 
 ---
 
-🤝 **Let’s Collaborate If You’re Into:**
-- ✨ Transformer-based model design (Vision or NLP)
-- 🏥 Medical Imaging (Polyp detection, breast cancer diagnosis)
-- 🎯 Real-time object detection on UAV/drone videos
+**Deep Diving Into:**
+
+- Advanced Transformers — ViT, Swin-UNETR, UAV-DETR, UNETR
+- State Space Models — MAMBA, S4, Hyena
+- MONAI, PyTorch, Deep Learning Optimization
+- Medical Imaging — DICOM to 16-bit TIFF pipelines
 
 ---
 
-🧩 **Need Help Figuring Out:**
-- 🌀 Temporal consistency across video frames
-- 🔬 Optimizing custom vision transformers for detection + segmentation
+**Down to Collaborate On:**
+
+- Transformer-based model design (Vision or NLP)
+- Medical Imaging (polyp detection, breast cancer diagnosis)
+- Real-time object detection on UAV/drone videos
 
 ---
 
-💬 **Ask Me About:**
-- 📚 Machine & Deep Learning (esp. vision)
-- 🧠 NLP & Custom LLMs
-- 🏥 Medical Image Preprocessing (DICOM, Histogram Matching, Super-Resolution)
-- 🎮 Minecraft AI (movement detection, anti-cheat logic)
+**Still Figuring Out:**
+
+- Temporal consistency across video frames
+- Optimizing custom vision transformers for detection + segmentation
 
 ---
 
-📬 **Reach Me:**
-- Email → `kuzeytorlak@gmail.com`
+**Ask Me About:**
+
+- Machine & Deep Learning (especially vision)
+- NLP & Custom LLMs
+- Medical Image Preprocessing (DICOM, Histogram Matching, Super-Resolution)
+- Minecraft AI (movement detection, anti-cheat logic)
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
+**Reach Me:** `kuzeytorlak@gmail.com`
+
+---
+
+<h3 align="left">Connect</h3>
 <p align="left">
   <a href="https://twitter.com/kreytorn" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kreytorn" height="20" width="30" />
@@ -60,7 +70,7 @@
 
 ---
 
-<h3 align="left">🧠 Tech Stack:</h3>
+<h3 align="left">Tech Stack</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
@@ -73,7 +83,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">GitHub Stats</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kreytorn&theme=dark" alt="Streak Stats" />
   <br>
