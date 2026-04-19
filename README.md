@@ -5,7 +5,7 @@
 
 ### Research
 
-**Parallel Hybrid Architecture (PHA)** | Submitted to ECML PKDD [[Paper]](#)
+**Parallel Hybrid Architecture (PHA)** | Submitted to ECML PKDD
 
 Hybrid architecture for long-context language modeling. Runs GSS (Gated State Spaces), GQA, and FFN as parallel branches fused through learnable mixing, so each branch specializes instead of forcing SSMs to approximate attention or stacking them sequentially. Evaluated at 90M/125M/180M parameter scales on WikiText-103 and OpenWebText. 125M model hits 16.51 PPL on WikiText-103 (vs Hedgehog 16.70, H3 23.70), 180M matches pure attention quality with 24% higher throughput and up to 40% lower memory at long contexts. Ablations revealed a "Sandwich" pattern where GSS dominates boundary layers for global context while attention peaks in middle layers for retrieval.
 
