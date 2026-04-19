@@ -5,25 +5,25 @@
 
 **Currently Building:**
 
-- **TEKNOFEST 2025 – Polyp Segmentation** — 16-bit TIFF, Transformer UNETR, Super-Resolution
-- **TEKNOFEST 2025 – UAV Object Detection** — UAV-DETR, MiDaS Depth, Optical Flow, Real-Time Tracking
-- **CLARA** — AI-Powered Minecraft Anti-Cheat using supervised movement pattern recognition
-- **Custom Architectures** — Novel transformer & Mamba-based models for vision and NLP
+- **TEKNOFEST 2025 – Polyp Segmentation** | 16-bit TIFF, Transformer UNETR, Super-Resolution
+- **TEKNOFEST 2025 – UAV Object Detection** | UAV-DETR, MiDaS Depth, Optical Flow, Real-Time Tracking
+- **CLARA** | AI-Powered Minecraft Anti-Cheat using supervised movement pattern recognition
+- **Custom Architectures** | Novel transformer & Mamba-based models for vision and NLP
 
 ---
 
 **Publications:**
 
-- **Pyramidal Hierarchical Attention (PHA)** — Hybrid SSM-Transformer architecture with learnable branch mixing, evaluated at 90M/125M/180M parameter scales on WikiText-103 and OpenWebText. Submitted to ECML PKDD. [[Paper]](#)
+- **Pyramidal Hierarchical Attention (PHA)** | Hybrid SSM-Transformer architecture with learnable branch mixing, evaluated at 90M/125M/180M parameter scales on WikiText-103 and OpenWebText. Submitted to ECML PKDD. [[Paper]](#)
 
 ---
 
 **Deep Diving Into:**
 
-- Advanced Transformers — ViT, Swin-UNETR, UAV-DETR, UNETR
-- State Space Models — MAMBA, S4, Hyena
+- Advanced Transformers | ViT, Swin-UNETR, UAV-DETR, UNETR
+- State Space Models | MAMBA, S4, Hyena
 - MONAI, PyTorch, Deep Learning Optimization
-- Medical Imaging — DICOM to 16-bit TIFF pipelines
+- Medical Imaging | DICOM to 16-bit TIFF pipelines
 
 ---
 
