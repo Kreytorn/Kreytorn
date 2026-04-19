@@ -7,27 +7,38 @@
 
 **Parallel Hybrid Architecture (PHA)** | Submitted to ECML PKDD [[Paper]](#)
 
-Hybrid architecture for long-context language modeling that runs GSS (Gated State Spaces), GQA (Grouped Query Attention), and FFN as parallel branches fused through a learnable mixing mechanism. Instead of forcing SSMs to approximate attention or stacking them sequentially, PHA lets each branch specialize: GSS handles global context via linear-time state propagation, attention handles selective token retrieval, and the mixer learns per-layer how much to rely on each.
-
-Results at 90M/125M/180M scales on WikiText-103 and OpenWebText:
-- 125M: 16.51 PPL on WikiText-103, beating Hedgehog (16.70) and H3-125M (23.70)
-- 180M: 16.42 PPL, matching pure attention while delivering 24% higher throughput and up to 40% lower memory at long contexts
-- 125M on OpenWebText: 19.72 PPL with only 23% of the training tokens used by baselines, outperforming standard Transformers (20.60) and GSS hybrids (19.80)
-
-Ablations showed a "Sandwich" specialization pattern in the learned mixing weights: GSS dominates near input/output layers for global context, attention peaks in middle layers for retrieval. Parallel composition beat sequential stacking even with identical components, and the architecture maintained consistent results across multiple seeds.
+Hybrid architecture for long-context language modeling. Runs GSS (Gated State Spaces), GQA, and FFN as parallel branches fused through learnable mixing, so each branch specializes instead of forcing SSMs to approximate attention or stacking them sequentially. Evaluated at 90M/125M/180M parameter scales on WikiText-103 and OpenWebText. 125M model hits 16.51 PPL on WikiText-103 (vs Hedgehog 16.70, H3 23.70), 180M matches pure attention quality with 24% higher throughput and up to 40% lower memory at long contexts. Ablations revealed a "Sandwich" pattern where GSS dominates boundary layers for global context while attention peaks in middle layers for retrieval.
 
 **TEKNOFEST 2026 Healthcare AI** | ECG Classification
 
-12-lead ECG classification into Normal, Rhythm Disorders, and Conduction Disorders on 81K recordings merged from 5 PhysioNet sources. Final system: TransformerCNN v5 (25M) + XResNet v4.1 SE (12M) ensemble via max confidence strategy, macro F1 0.8606. Trained 18 models across 6 architecture families (Transformer-CNN hybrids, XResNet, DualPath, pure Transformer, BiMamba/SSM, Spectrogram), tested 44 ensemble configurations.
+12-lead ECG classification (Normal / Rhythm Disorders / Conduction Disorders) on 81K recordings from 5 PhysioNet sources. TransformerCNN v5 + XResNet v4.1 SE ensemble, macro F1 0.8606. Trained 18 models across 6 architecture families, tested 44 ensemble configs.
+
+**TUBİTAK 2204-A** | AI-Assisted Exam Evaluation
+
+AI system for grading open-ended handwritten exams. Preprocessing pipeline (background removal, perspective correction, super-resolution), InternVL2-26B for text extraction, BERT-based Turkish diacritic restoration, rubric-based LLM scoring. Improved correlation with teacher scores from r=0.23 to r=0.89.
+
+**NASA Space Apps 2025** | ExoHunter
+
+Multi-method exoplanet detection combining transit photometry, radial velocity, astrometry, microlensing, and direct imaging. 2nd place locally at Gebze Technical University, selected as global nominee.
+
+---
+
+### Other
+
+- Instructor at inzva Deep Learning Study Group, teaching Transformers to ~20 university/masters students
+- Research affiliate at Koç University (Medical LLMs, NLP)
+- Leading AI & Robotics club at school (~200 members)
+- Competed in ISBO Computer Science Olympiad
+- LGS top 0.64% (national high school entrance exam, 1.2M students)
 
 ---
 
 ### What I Work With
 
-- Hybrid SSM-Transformer architectures (GSS, Mamba, S4, Hyena, learnable mixing strategies)
-- Transformer design (ViT, Swin-UNETR, UAV-DETR, GQA, RoPE, FlashAttention)
-- Medical signal/image processing (ECG classification, polyp segmentation, brain tumor detection)
-- PyTorch, MONAI, deep learning optimization
+- Hybrid SSM-Transformer architectures (GSS, Mamba, S4, Hyena)
+- Transformer design (ViT, GQA, RoPE, FlashAttention)
+- Medical signal/image processing
+- PyTorch, MONAI, Hugging Face
 
 ---
 
