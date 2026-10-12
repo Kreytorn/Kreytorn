@@ -1,4 +1,4 @@
-- I work on sequence models: state space models, Transformer attention and hybrids of the two.
+# I work on sequence models: state space models, Transformer attention and hybrids of the two.
 
 ### Paper
 
